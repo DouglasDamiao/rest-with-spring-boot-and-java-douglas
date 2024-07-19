@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 boot.validation.initialized=true
 eclipse.preferences.version=1
+=======
+boot.validation.initialized=true
+eclipse.preferences.version=1
+>>>>>>> f10b4ff05b964fdf49f024794c794d02d06c56c6
 =======
 boot.validation.initialized=true
 eclipse.preferences.version=1
