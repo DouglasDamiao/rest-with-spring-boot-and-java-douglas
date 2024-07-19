@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/main/java"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/test/java"/>
+	<classpathentry kind="output" path="05_SpringBoot/target/classes"/>
+</classpath>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/main/java"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/test/java"/>
+	<classpathentry kind="output" path="05_SpringBoot/target/classes"/>
+</classpath>
+>>>>>>> f10b4ff05b964fdf49f024794c794d02d06c56c6
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/main/java"/>
+	<classpathentry kind="src" path="05_SpringBoot/src/test/java"/>
+	<classpathentry kind="output" path="05_SpringBoot/target/classes"/>
+</classpath>
+>>>>>>> f10b4ff05b964fdf49f024794c794d02d06c56c6
